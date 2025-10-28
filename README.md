@@ -3,8 +3,8 @@
 ## 🧑‍💻 Author
 **T.Jaswanth Reddy**    
 • [Gmail](reddyjaswanth525@gmail.com)**|** 
-• [LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat)(https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/)**|**
-• [Git](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&style=flat)](https://github.com/JaswanthReddyT)
+• [LinkedIn])(https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/)**|**
+• [Git](https://github.com/JaswanthReddyT)
 
 
 # Offboard Drone Waypoint Navigation (ROS 2 + PX4 + Gazebo Classic)
