@@ -2,7 +2,9 @@
 ---
 ## 🧑‍💻 Author
 **T.Jaswanth Reddy**    
-[http://googleusercontent.com/image_collection/image_retrieval/6957330074392899426](reddyjaswanth525@gmail.com)**|**[http://googleusercontent.com/image_collection/image_retrieval/8911011289097511039](https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/)**|**[http://googleusercontent.com/image_collection/image_retrieval/15459754136681392084](https://github.com/JaswanthReddyT)
+• [Gmail](reddyjaswanth525@gmail.com)**|** 
+• [LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat)(https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/)**|**
+• [Git](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&style=flat)](https://github.com/JaswanthReddyT)
 
 
 # Offboard Drone Waypoint Navigation (ROS 2 + PX4 + Gazebo Classic)
