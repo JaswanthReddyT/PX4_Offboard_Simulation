@@ -2,9 +2,27 @@
 ---
 ## 🧑‍💻 Author
 **T.Jaswanth Reddy**    
-• [Gmail](reddyjaswanth525@gmail.com) 
-• [LinkedIn](https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/) 
-• [Git](https://github.com/JaswanthReddyT)
+[Gmail](reddyjaswanth525@gmail.com) 
+<p align="left">
+  <a href="mailto:jaswant@email.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="20" height="20" style="margin-right: 20px;">
+  </a>
+  <a href="https://linkedin.com/in/jaswant" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" style="margin-right: 15px;">
+  </a>
+</p>
+<p align="left">
+  <a href="https://linkedin.com/in/jaswant" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" style="margin-right: 15px;">
+  </a>
+</p>
+[LinkedIn](https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/) 
+<p align="left">
+  <a href="https://github.com/jaswant" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20" height="20">
+  </a>
+</p>
+[GitHub](https://github.com/JaswanthReddyT)
 
 ---
 ## 🛰️ Overview
@@ -29,10 +47,10 @@ An offboard ROS 2 node (`offboard_waypoints.py`) sends position setpoints (waypo
 | Component | Version / Notes |
 |------------|----------------|
 | **ROS 2** | Humble |
-| **PX4 Autopilot** | v1.13+ (SITL mode) |
+| **PX4 Autopilot** | v1.15 (SITL mode) |
 | **Gazebo Classic** | Included with PX4 (Iris model) |
 | **MAVROS** | Installed and configured for PX4 |
-| **QGroundControl (Optional)** | For real-time monitoring |
+| **QGroundControl ** | For real-time monitoring |
 | **Python 3** | Required for `rclpy`, `mavros`, and `matplotlib` |
 
 ---
@@ -63,7 +81,7 @@ ros2 pkg create --build-type ament_python offboard_control --dependencies rclpy 
 - Now clone this GitHub repository into your src directory:
 ```bash
 cd ~/ros2_ws/src/offboard_control/
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/JaswanthReddyT/PX4_Offboard_Simulation.git --recursive
 ```
  **Note:** Move the offboard.py file into the offboard_control/ folder inside the package and ensure it’s executable:
 
@@ -96,6 +114,7 @@ make px4_sitl gazebo
 ```
 ✅ This launches PX4 SITL and opens Gazebo Classic with the Iris quadcopter model.
 You should see the drone appear in the simulation world.
+![QGC Overview](results/qgc.png)
 
 ### ⚡ Step 2: Launch the MAVROS Node
 - In another terminal:
@@ -139,6 +158,13 @@ python3 offboard_waypoints.py
 ```css
 Launch QGroundControl you can the drone tavelling through the given waypoints in the map.
 ```
+![QGC Overview](results/qgc.png)
 ---
+## 🗺️Waypoints Published
+Below is an image of the Waypoints that are given to FCU :
+![Waypoints Overview](results/rviz.png)
 
+## Path of the Drone
+Below is an image that shows the predected setpoints path and the actual travelled path of the drone :
+![Path Overview](results/setpoint_vs_actual_xy.png)
 
