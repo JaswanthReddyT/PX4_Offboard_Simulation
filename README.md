@@ -1,27 +1,18 @@
 # PX4_Offboard_Simulation
 ---
 ## 🧑‍💻 Author
-**T.Jaswanth Reddy**    
+**T.Jaswanth Reddy**   
+<a href="mailto:jaswant@email.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="20" height="20" style="margin-right: 200px;">
+</a>
 [Gmail](reddyjaswanth525@gmail.com) 
-<p align="left">
-  <a href="mailto:jaswant@email.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="20" height="20" style="margin-right: 20px;">
-  </a>
   <a href="https://linkedin.com/in/jaswant" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" style="margin-right: 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" style="margin-left: 20px;">
   </a>
-</p>
-<p align="left">
-  <a href="https://linkedin.com/in/jaswant" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" style="margin-right: 15px;">
-  </a>
-</p>
 [LinkedIn](https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/) 
-<p align="left">
   <a href="https://github.com/jaswant" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20" height="20">
   </a>
-</p>
 [GitHub](https://github.com/JaswanthReddyT)
 
 ---
