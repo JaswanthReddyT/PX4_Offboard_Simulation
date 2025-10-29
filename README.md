@@ -18,7 +18,7 @@
 ---
 ## 🛰️ Overview
 This project demonstrates **autonomous waypoint navigation** in offboard mode** using a PX4-based drone simulation (Iris model) in **Gazebo Classic**.  
-An offboard ROS 2 node (`offboard_waypoints.py`) sends position setpoints (waypoints) to the **Pixhawk flight controller (PX4 SITL)** through **MAVROS**, guiding the drone through **9 waypoints (W0–W8)** and finally returning to launch after mission completion.
+An offboard ROS 2 node (`offboard_waypoints.py`) sends position setpoints (waypoints) to the **Pixhawk flight controller (PX4 SITL)** through **MAVROS**, guiding the drone through **9 waypoints (W0–W8)** with some failsafe controls and finally returning to launch after mission completion.
 
 ---
 
