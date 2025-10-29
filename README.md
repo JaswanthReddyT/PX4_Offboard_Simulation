@@ -41,7 +41,7 @@ An offboard ROS 2 node (`offboard_waypoints.py`) sends position setpoints (waypo
 | **PX4 Autopilot** | v1.15 (SITL mode) |
 | **Gazebo Classic** | Included with PX4 (Iris model) |
 | **MAVROS** | Installed and configured for PX4 |
-| **QGroundControl ** | For real-time monitoring |
+| **QGroundControl** | For real-time monitoring |
 | **Python 3** | Required for `rclpy`, `mavros`, and `matplotlib` |
 
 ---
