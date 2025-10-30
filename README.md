@@ -2,15 +2,15 @@
 ---
 ## 🧑‍💻 Author
 **T.Jaswanth Reddy**   
-<a href="mailto:jaswant@email.com" target="_blank">
+<a href="mailto:reddyjaswanth525@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="20" height="20" style="margin-right: 200px;">
 </a>
 [Gmail](reddyjaswanth525@gmail.com) 
-  <a href="https://linkedin.com/in/jaswant" target="_blank">
+  <a href="https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" style="margin-left: 20px;">
   </a>
 [LinkedIn](https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/) 
-  <a href="https://github.com/jaswant" target="_blank">
+  <a href="https://github.com/JaswanthReddyT" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20" height="20">
   </a>
 [GitHub](https://github.com/JaswanthReddyT)
@@ -93,9 +93,9 @@ source install/setup.bash
 ```
 ---
 
-## 🚀 Step-by-Step Guide to Perform the Task
+##  🚀Step-by-Step Guide to Perform the Task
 
-### **🧭 Step 1:** Launch the Drone in Gazebo (PX4 SITL)
+### 🛸** Step 1:** Launch the Drone in Gazebo (PX4 SITL)
 - In a new terminal:
 
 ```bash
@@ -105,7 +105,7 @@ make px4_sitl gazebo
 ```
 ✅ This launches PX4 SITL and opens Gazebo Classic with the Iris quadcopter model.
 You should see the drone appear in the simulation world.
-![QGC Overview](results/qgc.png)
+![PX4_SITL Overview](results/px4_sitl.png)
 
 ### ⚡ Step 2: Launch the MAVROS Node
 - In another terminal:
@@ -121,6 +121,7 @@ You should see output similar to:
 [ INFO] [mavros]: MAVROS started. Connected to PX4.
 #This confirms the MAVROS bridge is connected to PX4.
 ```
+![PX4_SITL Overview](results/mavros.png)
 ### 🧠 Step 3:Run the Offboard Node
 
 - In a third terminal:
@@ -152,10 +153,10 @@ Launch QGroundControl you can the drone tavelling through the given waypoints in
 ![QGC Overview](results/qgc.png)
 ---
 ## 🗺️Waypoints Published
-Below is an image of the Waypoints that are given to FCU :
+Below is an image of the Waypoints (W0 to W8) that are given to FCU :
 ![Waypoints Overview](results/rviz.png)
 
-## Path of the Drone
+🛣️## Path of the Drone
 Below is an image that shows the predected setpoints path and the actual travelled path of the drone :
 ![Path Overview](results/setpoint_vs_actual_xy.png)
 
