@@ -2,10 +2,6 @@
 ---
 ## 🧑‍💻 Author
 **T.Jaswanth Reddy**   
-<a href="mailto:reddyjaswanth525@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="20" height="20" style="margin-right: 200px;">
-</a>
-[Gmail](reddyjaswanth525@gmail.com) 
   <a href="https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" style="margin-left: 20px;">
   </a>
