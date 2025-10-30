@@ -1,7 +1,7 @@
 # PX4_Offboard_Simulation
 ---
 ## 🧑‍💻 Author
-**T.Jaswanth Reddy**   
+***T.Jaswanth Reddy***   
   <a href="https://www.linkedin.com/in/thugu-jaswanth-reddy-12a72828b/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" style="margin-left: 20px;">
   </a>
@@ -150,9 +150,11 @@ Launch QGroundControl you can the drone tavelling through the given waypoints in
 ---
 ## 🗺️Waypoints Published
 Below is an image of the Waypoints (W0 to W8) that are given to FCU :
+
 ![Waypoints Overview](results/rviz.png)
 
-🛣️## Path of the Drone
+## 🛣️Path of the Drone
 Below is an image that shows the predected setpoints path and the actual travelled path of the drone :
+
 ![Path Overview](results/setpoint_vs_actual_xy.png)
 
